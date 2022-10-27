@@ -496,6 +496,143 @@ https://cdn3.reels2watch.com/hls/s2.m3u8|referer=https://techoreels.com/
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600629_ico.png?ts=1654805997" group-title="SPORTS ID",NBA TV
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/8246.m3u8
 
+---------------------------------------SPORTS NAT---------------------------------------------
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",UFC Fight Pass 24/7 FHD US
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/101217
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",WWE Network FHD US
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/101219
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",WWE Network HD US
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/9663
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",ESPN HD US
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/9660
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",ESPN 2 HD US
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/10881
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",ESPN 3 HD US
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/10880
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",ESPN+ HD US
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/32482
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",World Fishing Network HD US
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/55010
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Fox Deportes HD US
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/20365
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Fox Sports 1 HD US
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/8254
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Fox Sports 2 HD US
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/8255
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Fox Sports South HD US
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/71697
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",DAZN 01 HD US
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347968
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",DAZN 02 HD US
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347969
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",DAZN 03 HD US
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347970
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",DAZN 04 HD US
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347971
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",DAZN 05 HD US
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347972
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",DAZN 06 HD US
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347973
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",DAZN 07 HD US
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347974
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",DAZN 08 HD US
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347975
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",DAZN 09 HD US
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347976
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",DAZN 10 HD US
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347977
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",DAZN 11 HD US
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347978
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",DAZN 12 HD US
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347979
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",DAZN 13 HD US
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347980
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",ASTRO SUPERSPORTS 1 HD TH MY
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115615
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",ASTRO SUPERSPORTS 2 HD TH MY
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115616
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",ASTRO SUPERSPORTS 3 HD TH MY
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115617
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",ASTRO SUPERSPORTS 4 HD TH MY
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115618
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Fox Sports 1 HD TH
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115304
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Fox Sports 1 HD TH  [ENG]
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115427
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Fox Sports 1 HD TH [Thai]
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115682
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Fox Sports 1 TH [Thai]
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115684
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Fox Sports 2 HD TH
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115305
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Fox Sports 2 HD TH  [ENG]
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115685
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Fox Sports 2 HD TH [Thai]
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115686
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Fox Sports 2 TH  [ENG]
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115433
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Fox Sports 2 TH [Thai]
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115688
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Fox Sports 3 FHD TH
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/36948
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Fox Sports 3 HD TH
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115306
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Fox Sports 3 TH  [ENG]
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115689
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Fox Sports 3 TH [Thai]
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115690
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",FOX Thai HD TH  [ENG]
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115691
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",FOX Thai TH  [ENG]
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115439
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",FOX Thai TH [Thai]
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115694
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Premier Football 1 TH [Thai]
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115757
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Premier Football HD TH 1  [ENG]
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115758
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Premier Football HD TH 1 [Thai]
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115759
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Premier Football HD TH 1-X [Thai]
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115760
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Premier Football HD TH 2  [ENG]
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115762
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Premier Football HD TH 2  [ENG]
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115508
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Premier Football HD TH 2-X [ENG]
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115509
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Premier Football HD TH 3
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115510
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Premier Football HD TH 3 [ENG]
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115511
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Premier Football HD TH 3-X
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115512
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Premier Football HD TH 4
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115513
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Premier Football HD TH 4-X
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115768
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Premier Football HD TH 5
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115515
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Premier Football TH 1  [ENG]
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115516
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Premier Football TH 1-X [Thai]
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115771
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Premier Football TH 2 [ENG]
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115518
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Premier Football TH 3
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115520
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Premier Football TH 3 [ENG]
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115521
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Premier Football TH 3-X
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115522
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Premier Football TH 4
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115523
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Premier Football TH 4-X
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115524
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Premier Football TH 5
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115525
+
 -----------------------------------------KIDS----------------------------------------------------
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22917908_ico.png?ts=1665700675" group-title="KIDS",Vista Indah Ch Music
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt3/main/Live.m3u8
@@ -553,6 +690,7 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19747038_ico.png?ts=1654801346" group-title="KIDS",TV EDUKASI
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=9fa83fec3cf3810e5680ed45f7124dce446503011668def857b1c03bafabba51
+
 
 ----------------------------------MALAYSIA--------------------------------------------------
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19758812_ico.png?ts=1654802327" group-title="MALAYSIA",TV1 HD
@@ -719,8 +857,3 @@ http://210.210.155.37/uq2663/h/h23/01.m3u8|User-Agent=Lavf/56.15.102
 EXTINF:-1 tvg-id="RCTI.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" group-title="KNOWLEDGE",U16 INDONESIA FINAL
 EXTVLCOPT:http-referrer=https://castfree.me/
 https://s6.merizaat.com:999/hls/Nobarsport.m3u8?md5=iumAvw6fyNSzicAihJ91qw&expires=1660316828
-
-
-
-
-
