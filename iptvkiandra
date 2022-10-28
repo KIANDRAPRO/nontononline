@@ -499,9 +499,9 @@ http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/8246.m3u8
 ---------------------------------------SPORTS NAT---------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",UFC Fight Pass 24/7 FHD US
 http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/101217
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",WWE Network FHD US
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lcpZ5CC.png" group-title="SPORTS NAT",WWE Network FHD US
 http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/101219
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",WWE Network HD US
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lcpZ5CC.png" group-title="SPORTS NAT",WWE Network HD US
 http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/9663
 #EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",ESPN HD US
 http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/9660
@@ -521,32 +521,47 @@ http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/8254
 http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/8255
 #EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",Fox Sports South HD US
 http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/71697
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",DAZN 01 HD US
-http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347968
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",DAZN 02 HD US
-http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347969
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",DAZN 03 HD US
-http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347970
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",DAZN 04 HD US
-http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347971
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",DAZN 05 HD US
-http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347972
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",DAZN 06 HD US
-http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347973
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",DAZN 07 HD US
-http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347974
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",DAZN 08 HD US
-http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347975
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",DAZN 09 HD US
-http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347976
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",DAZN 10 HD US
-http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347977
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",DAZN 11 HD US
-http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347978
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",DAZN 12 HD US
-http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347979
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",DAZN 13 HD US
-http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347980
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT", Spotv
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1647684965~exp=9007200902425956~acl=/99545824f
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT", Spotv1HD
+https://bit.ly/3IH5ydM
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT", Spotv2HD
+https://bit.ly/3c5MglY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lcpZ5CC.png" group-title="SPORTS NAT", WWE NETWORK
+http://abc123.digital:8080/Rebel/45Wgd6Qet7/392617
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",ABU DHABI SPORTS 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",ABU DHABI SPORTS 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",DUBAI SPORTS 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",DUBAI SPORTS 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",DUBAI SPORTS 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",FIGHTBOX
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",FIGHT SPORT
+http://210.210.155.37/dr9445/h/h05/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",MOTOVISION
+http://210.210.155.37/uq2663/h/h09/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",SPOTV
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1652233078~exp=9007200906974069~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=ba5e42a00f270a8fcb34a7e08a46d853402bb14701ab7a52463b0b351bbfd01c
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",SWISS SPORT TV
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",ASTRO SUPERSPORT 1
+http://axcestv.vip:8080/live/freeview/axcestv/787.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",ASTRO SUPERSPORT 2
+http://axcestv.vip:8080/live/freeview/axcestv/789.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",ASTRO SUPERSPORT 3
+http://axcestv.vip:8080/live/freeview/axcestv/790.ts
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",ASTRO SUPERSPORT 4
+http://axcestv.vip:8080/live/freeview/axcestv/791.ts
+
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS NAT",ASTRO SUPERSPORTS 1 HD TH MY
 http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115615
